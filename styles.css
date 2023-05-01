@@ -1,0 +1,14 @@
+ body {
+    margin: 5px 15px;
+    padding: 10px 20px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0,0,0,0.8);
+    position: relative;
+    min-height: 100vh;
+    box-sizing: inherit;
+    display: block;
+ }
+ p {
+    margin: 30px;
+ }
